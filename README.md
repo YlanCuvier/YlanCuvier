@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="assets/punpun.gif" alt="Aura">
+<img src="assets/readme.gif" alt="Aura">
 
 <br/>
 <br/>
