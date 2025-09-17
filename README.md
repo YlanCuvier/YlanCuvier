@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/YlanCuvier/YlanCuvier/assets/readme.gif" alt="Aura">
+<img src="[https://raw.githubusercontent.com/YlanCuvier/YlanCuvier/assets/readme.gif](https://github.com/YlanCuvier/YlanCuvier/blob/main/assets/readme.gif)" alt="Aura">
 
 <br/>
 <br/>
