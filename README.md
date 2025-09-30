@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-  c'est sur ça marche cette fois
+  cette fois c bon
 <img src="assets/punpun.gif" alt="Aura">
 
 <br/>
