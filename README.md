@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-  cette fois c bon
+  aura
 <img src="assets/punpun.gif" alt="Aura">
 
 <br/>
