@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-  toujours pas jcrois
+  c'est sur ça marche cette fois
 <img src="assets/punpun.gif" alt="Aura">
 
 <br/>
