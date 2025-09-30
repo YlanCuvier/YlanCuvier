@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-  tuff lk mf
+  aura
 <img src="assets/punpun.gif" alt="Aura">
 
 <br/>
