@@ -1,7 +1,6 @@
 <div align="center">
 <br/>
 
-tuff
 
 <img src="assets/punpun.gif" alt="Aura">
 
